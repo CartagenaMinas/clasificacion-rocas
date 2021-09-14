@@ -11,7 +11,7 @@ import svm
 
 ######################### Funciones #################################
 # Set the configs
-APP_TITLE = "REGRESIÓN LOGÍSTICA"
+APP_TITLE = "CLASIFICACIÓN DE ROCAS"
 st.set_page_config(
     page_title = APP_TITLE,
     page_icon = Image.open('utils/pickaxe.png'),
