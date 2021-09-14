@@ -4,7 +4,7 @@ from PIL import Image
 
 def principal():
     lgit = """<a href='https://github.com/CartagenaMinas/VentiST' target="_blank">Github</a>"""
-    st.title('CÁLCULO DEL CAUDAL DE AIRE MINA')
+    st.title('MODELOS DE MACHING LEARNING PARA CLASIFICACIÓN DE ROCAS')
     st.write("")
     st.write("")
     col1, col2 = st.columns([2, 2])
